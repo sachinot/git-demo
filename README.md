@@ -7,3 +7,8 @@ today is Monday & it's a pleasant day
 
 adding some more text to the file to commit
 this is a very good demo
+
+## some more text
+
+adding some more text to the file to commit
+this is a very good demo
